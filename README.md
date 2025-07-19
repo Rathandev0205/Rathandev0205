@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathandev0205&label=Profile%20views&color=0e75b6&style=flat" alt="rathandev0205" /> </p>
 
-- 🔭 I’m currently working on [90DaysOfDevOps](https://github.com/Rathandev0205/90DaysOfDevOps)
-
-- 🌱 I’m currently learning **Cloud & DevOps**
+- 🔭 I’m currently working as CloudOps Engineer
 
 - 📝 I write articles on [https://hashnode.com/@Rathan1](https://hashnode.com/@Rathan1)
 
